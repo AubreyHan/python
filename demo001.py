@@ -1,2 +1,4 @@
-print(True or False and True)
-print(True and False or False)
+a = 123
+b = a
+a = 456
+print(b)
